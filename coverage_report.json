@@ -1,0 +1,173 @@
+{
+  "by_journal": {
+    "Acta Geochemica": {
+      "seed_url": "https://link.springer.com/journal/11631",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Aquatic Geochemistry": {
+      "seed_url": "https://link.springer.com/journal/10498",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Arabian Journal of Geociences": {
+      "seed_url": "https://link.springer.com/journal/12517",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Biogeochemistry": {
+      "seed_url": "https://link.springer.com/journal/10533",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Computational Geosciences": {
+      "seed_url": "https://link.springer.com/journal/10596",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Discover Geoscience": {
+      "seed_url": "https://link.springer.com/journal/44288",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Frontiers of Earth Science": {
+      "seed_url": "https://link.springer.com/journal/11707",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Geo-Marine Letters": {
+      "seed_url": "https://link.springer.com/journal/367",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Geochemistry International": {
+      "seed_url": "https://link.springer.com/journal/11476",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Geosciences Journal": {
+      "seed_url": "https://link.springer.com/journal/12303",
+      "domain": "link.springer.com",
+      "downloaded_articles": 49
+    },
+    "Journal of Earth Science": {
+      "seed_url": "https://link.springer.com/journal/12583",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Journal of Earth System Science": {
+      "seed_url": "https://link.springer.com/journal/12040",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Journal of Iberian Geology": {
+      "seed_url": "https://link.springer.com/journal/41513",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Journal of Petroleum Exploration and Production Technology": {
+      "seed_url": "https://link.springer.com/journal/13202/articles",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Mediterranean Geoscience Reviews": {
+      "seed_url": "https://link.springer.com/journal/42990",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Moscow University Geology Bulletin": {
+      "seed_url": "https://link.springer.com/journal/11969",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Paleontological Journal": {
+      "seed_url": "https://link.springer.com/journal/11492",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Russian Journal of Pacific Geology": {
+      "seed_url": "https://link.springer.com/journal/11720",
+      "domain": "link.springer.com",
+      "downloaded_articles": 50
+    },
+    "Science China Earth Sciences": {
+      "seed_url": "https://link.springer.com/journal/11430/volumes-and-issues",
+      "domain": "link.springer.com",
+      "downloaded_articles": 0
+    },
+    "Nature Geoscience": {
+      "seed_url": "https://www.nature.com/ngeo/",
+      "domain": "nature.com",
+      "downloaded_articles": 40
+    },
+    "Geochemical Transactions": {
+      "seed_url": "https://geochemicaltransactions.biomedcentral.com/",
+      "domain": "geochemicaltransactions.biomedcentral.com",
+      "downloaded_articles": 55
+    },
+    "Progress in Earth and Planetary Science": {
+      "seed_url": "https://progearthplanetsci.springeropen.com/",
+      "domain": "progearthplanetsci.springeropen.com",
+      "downloaded_articles": 55
+    }
+  },
+  "missing_journals": [
+    "Science China Earth Sciences"
+  ],
+  "by_domain": {
+    "link.springer.com": {
+      "journals_in_seeds": 19,
+      "journals_with_any_articles": 18,
+      "total_downloaded_articles": 899,
+      "journals": [
+        "Acta Geochemica",
+        "Aquatic Geochemistry",
+        "Arabian Journal of Geociences",
+        "Biogeochemistry",
+        "Computational Geosciences",
+        "Discover Geoscience",
+        "Frontiers of Earth Science",
+        "Geo-Marine Letters",
+        "Geochemistry International",
+        "Geosciences Journal",
+        "Journal of Earth Science",
+        "Journal of Earth System Science",
+        "Journal of Iberian Geology",
+        "Journal of Petroleum Exploration and Production Technology",
+        "Mediterranean Geoscience Reviews",
+        "Moscow University Geology Bulletin",
+        "Paleontological Journal",
+        "Russian Journal of Pacific Geology",
+        "Science China Earth Sciences"
+      ]
+    },
+    "nature.com": {
+      "journals_in_seeds": 1,
+      "journals_with_any_articles": 1,
+      "total_downloaded_articles": 40,
+      "journals": [
+        "Nature Geoscience"
+      ]
+    },
+    "geochemicaltransactions.biomedcentral.com": {
+      "journals_in_seeds": 1,
+      "journals_with_any_articles": 1,
+      "total_downloaded_articles": 55,
+      "journals": [
+        "Geochemical Transactions"
+      ]
+    },
+    "progearthplanetsci.springeropen.com": {
+      "journals_in_seeds": 1,
+      "journals_with_any_articles": 1,
+      "total_downloaded_articles": 55,
+      "journals": [
+        "Progress in Earth and Planetary Science"
+      ]
+    }
+  },
+  "json_summary": {
+    "total_articles_in_json": 1049,
+    "journals_in_json_only_not_in_seeds": []
+  }
+}
