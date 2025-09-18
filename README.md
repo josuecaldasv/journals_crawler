@@ -1,0 +1,1 @@
+python springerlink.py --input-dir ../springerlink --output ../springerlink_data.json --pretty

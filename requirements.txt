@@ -3,3 +3,12 @@ beautifulsoup4
 lxml
 tenacity
 tqdm
+python-dotenv
+selenium
+pandas
+spacy
+nltk
+scikit-learn
+numpy
+matplotlib
+openpyxl
